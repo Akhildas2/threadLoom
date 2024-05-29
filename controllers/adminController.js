@@ -3,6 +3,7 @@ const Admin = require("../models/adminModel")
 const Order = require('../models/orderModel')
 const Product = require('../models/productModel')
 const Category = require('../models/categoryModel')
+const wishlist = require('../models/wishListModel')
 
 const bcrypt = require('bcrypt');
 
